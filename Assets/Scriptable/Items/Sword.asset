@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ea35cf5e2f11c42aa09f9201ff0760, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  objectSlug: Sword
+  avItem: 1
+  itName: Sword
+  classPrefab: {fileID: 4389760081762818017, guid: 134713c70bbeeed4eaecd1299a69fb1d, type: 3}
+  description: A long, sharp blade
+  actionName: Equip
+  itemModifier: 1
+  baseValue: 2
+  statName: Strength
