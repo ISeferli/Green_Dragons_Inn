@@ -1,9 +1,22 @@
 # Simple RPG Game in Unity
 
-## Overview
 This is a simple RPG created using Unity for a university two month assignment. The game includes basic RPG features such as character creation, attribute assignment, leveling up and equipment management.
 
-## Features
+---
+
+## 🎓 Project Info
+
+- **Course**: Graphics
+- **Institution**: Technical University of Crete (TUC)
+- **Department**: School of Electrical and Computer Engineering
+- **Semester**: Spring 2023
+- **Project Type**: Individual assignment
+- **Language**: C#
+- **Platform**: Unity
+
+---
+
+## ✨ Features
 - Character Creation: Customize your character with unique attributes.
 - Attribute System: Distribute points in Strength, Dexterity, Constitution, Intelligence, and Wisdom. Each attribute affects gameplay.
 - Leveling Up System: Each character gains experience during a fight and after a specific amount, they can level up.
@@ -11,7 +24,9 @@ This is a simple RPG created using Unity for a university two month assignment. 
 - Loot: Each monster leaves randomized loot when defeated.
 - Quest System: Each game level has a different quest, which assigns experience points at completion.
 
-## Screenshots
+---
+
+## 🎮 Screenshots
 ### Character Creation
 Assign points to attributes and choose your class. Attributes affect damage, speed, and more.
 
